@@ -33,7 +33,7 @@ This project is a comprehensive demonstration of various data structures and alg
 The project uses a song dataset containing over 10,000 songs sourced from Kaggle. The dataset includes various attributes for each song, such as the song name, artist, and genre.
 ##
 ### GUI Overview
-Due to time constraints, the GUI is kept minimalistic. It consists of the following main panels:
+Due to time constraints, the GUI is kept minimalistic.
 ##
 
 ## Running the Project
