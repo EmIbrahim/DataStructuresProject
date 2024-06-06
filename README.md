@@ -41,7 +41,11 @@ Clone the Repository: Clone the repository to your local machine.
 
 bash
 Copy code
-git clone <repository-url>
+git clone
 Open the Project: Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
 Run the Application: Run the MusicPlayerGUI class to start the application.
+Or
+Run on Console: Run the Music class to run the project on the console. 
+
+[Fix the main methods of both classes before running] 
